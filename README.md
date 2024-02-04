@@ -8,9 +8,9 @@ A leverless fightstick with ergonomic button placement as well as plenty of spac
 - Bottom case
 - PCB board
 - RP2040-Zero controller
-- 12 MX hotswap sockets
-- 12 MX switches
-- 12 25mm MX arcade buttons
+- 14 MX hotswap sockets
+- 14 MX key switches
+- 14 25mm MX arcade buttons
 - 4 6x6x7.3mm tactile switches
 - 4 12mm tactile switch caps
 - 6 M3 12mm length bolt connectors
