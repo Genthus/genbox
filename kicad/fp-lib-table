@@ -1,4 +1,4 @@
 (fp_lib_table
   (version 7)
-  (lib (name "haku")(type "KiCad")(uri "C:/Users/solra/Documents/genBox")(options "")(descr ""))
+  (lib (name "haku")(type "KiCad")(uri "C:/Users/solra/github/genBox/kicad")(options "")(descr ""))
 )
