@@ -1,4 +1,4 @@
-[front image](/media/front.jpg)
+![front image](/media/front.jpg)
 # GenBox
 A leverless fightstick with ergonomic button placement as well as plenty of space for custom art!
 
