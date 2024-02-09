@@ -8,6 +8,7 @@
 *.FCStd1
 *.fcstd2
 *.FCStd2
+*.FCBak
 
 ### KiCad ###
 # For PCBs designed using KiCad: https://www.kicad.org/
